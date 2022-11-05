@@ -40,7 +40,7 @@ The Footer contains the link to the Repository containing all the projects made 
 - React JS
 - Tailwind CSS
 
-##Link for the project in real time 😄
+## Link for the project in real time 😄
 https://yashbawa-techrity.netlify.app/
 
 ## Author
